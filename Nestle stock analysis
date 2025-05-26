@@ -1,0 +1,48 @@
+Nestle (NSRGY) Stock Analysis
+
+Background and Overview
+
+Nestle is a leading global food and beverage company. Analyzing its stock price behavior provides valuable insights for investors and stakeholders to make well-informed decisions regarding their investments.
+
+This project examines Nestle’s stock performance from January 2024 to April 2025, focusing on short-term price trends and volatility. The key question addressed is:
+
+> How does Nestle’s stock price behave in the short term, and what do its fluctuations reveal about investment risks and opportunities?
+
+Data Structure Overview
+
+The dataset, sourced from Yahoo Finance, contains daily trading information for Nestle (ticker: NSRGY), including:
+
+* Close Price: The official stock price at market close each day.
+* Daily Return: The percentage change in closing price compared to the previous trading day.
+* 7-Day and 14-Day Simple Moving Averages (SMA): The average closing prices over the last 7 and 14 days, respectively, used to identify short- and medium-term trends.
+* 7-Day Volatility: The standard deviation of daily returns over a rolling 7-day window, reflecting price variability and investment risk.
+
+Each record corresponds to one trading day, with calculated fields providing insights into trend dynamics and risk levels.
+
+Executive Summary
+
+* Nestle’s stock exhibits predictable short-term price fluctuations, with clear trends highlighted by the moving averages.
+* The 7-day SMA responds more quickly to price changes than the 14-day SMA, providing timely signals for short-term trading decisions.
+* Volatility analysis identifies distinct periods of increased risk, likely corresponding to market events or economic factors.
+* The distribution of daily returns shows a concentration of small price changes, punctuated by occasional significant movements.
+
+Insights Deep Dive
+
+* Trend Identification: Crossovers between the 7-day and 14-day SMAs reliably indicate shifts in price momentum. A 7-day SMA crossing above the 14-day SMA signals an upward trend, while crossing below indicates a downward trend.
+* Volatility Patterns: Elevated volatility periods signal heightened market uncertainty and risk, which investors should monitor closely.
+* Daily Return Distribution: The predominance of minor daily changes suggests relative price stability, with sporadic large returns highlighting important market events or investor reactions.
+
+Recommendations
+
+* For Investors: Employ moving average crossovers to inform entry and exit points, reducing exposure to short-term volatility.
+* For Nestle Management: Track volatility trends to gauge market reactions to corporate communications and external events; transparent communication may help stabilize stock performance.
+* For Future Research: Integrate external factors such as earnings reports, competitor performance, and macroeconomic data to better explain price movements and volatility.
+
+Caveats and Assumptions
+
+* The analysis assumes the accuracy and completeness of the Yahoo Finance data used.
+* Stock price movements are influenced by many factors not captured here, such as geopolitical events, macroeconomic changes, or sudden company news.
+* Moving averages and volatility are backward-looking indicators and may not predict future price behavior with certainty.
+* This analysis does not account for dividends, stock splits, or other corporate actions that may affect stock price.
+* The time frame (January 2024 to April 2025) may not reflect longer-term trends or unusual market conditions outside this window.
+
