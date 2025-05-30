@@ -59,7 +59,7 @@ NSRGY’s stock experienced a prolonged decline throughout most of 2024, seeing 
 
 These insights provide clarity for investment strategy, particularly for teams involved in technical trading, portfolio risk management, and capital planning. While this analysis focuses on technical indicators, it's crucial to acknowledge that external factors such as global economic conditions, changes in consumer spending habits, commodity price fluctuations, and company-specific news (e.g., earnings reports, product innovations, M&A activities) likely underpinned these price movements. Future analyses could integrate fundamental drivers to provide a more holistic understanding.
 
-[image alt](
+[image alt](https://github.com/Etingena/Etinosa_portfolio/blob/main/Dashboard%201%20(5).png)
 
 ---
 
