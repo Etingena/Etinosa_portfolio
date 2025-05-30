@@ -1,7 +1,9 @@
 # Nestlé (NSRGY) Stock Performance Analysis
 
 ## Table of Contents
--[Tools Used](#tools-used)
+
+
+- [Tools Used](#tools-used)
 - [Project Background](#project-background)
 - [Data Structure & Initial Checks](#data-structure--initial-checks)
 - [Executive Summary](#executive-summary)
@@ -13,11 +15,14 @@
 - [Assumptions and Caveats](#assumptions-and-caveats)
 
 ## Tools Used
+
 -Python
+
 -Excel (for a clearer view of the dataset and minor edits)
+
 -Tableau
 
-For Python code used in cleaning and analyzing the data, [click here](https://Nestlestock.ipynb)
+For Python code used in cleaning and analyzing the data, [click here](https://github.com/Etingena/Etinosa_portfolio/blob/main/Nestlestock.ipynb)
 
 To view the interactive Tableau dashboard for this analysis, [click here](https://public.tableau.com/views/Nestle_17486275953630/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -31,9 +36,6 @@ Insights and recommendations are provided on the following key areas:
 - **Category 1:** Short-Term Trading Signals from Price and Moving Averages  
 - **Category 2:** Daily Return Behavior and Risk Profile  
 - **Category 3:** Volatility Dynamics and Risk Management
-
-The Python code used to inspect and clean the data for this analysis will be placed here [link].  
-An interactive Tableau dashboard used to explore and report key findings will be placed here [link].
 
 ---
 
@@ -57,7 +59,7 @@ NSRGY’s stock experienced a prolonged decline throughout most of 2024, seeing 
 
 These insights provide clarity for investment strategy, particularly for teams involved in technical trading, portfolio risk management, and capital planning. While this analysis focuses on technical indicators, it's crucial to acknowledge that external factors such as global economic conditions, changes in consumer spending habits, commodity price fluctuations, and company-specific news (e.g., earnings reports, product innovations, M&A activities) likely underpinned these price movements. Future analyses could integrate fundamental drivers to provide a more holistic understanding.
 
-![Visualization of overall stock trend and SMA crossover]
+[image alt](
 
 ---
 
@@ -77,7 +79,7 @@ In **January 16, 2025**, a "golden cross" occurred as the 7-day SMA moved above 
 
 During the downtrend, the SMAs consistently capped price rebounds, acting as resistance levels. In contrast, during the rally, they served as dynamic support zones, with prices often bouncing off these lines. These dynamics suggest opportunities for trend-following and mean-reversion strategies. Historical reliability of these crossovers for NSRGY could be further validated by backtesting their performance over longer periods.
 
-![Visualization specific to Category 1 – Price & SMA chart]
+![image alt](https://github.com/Etingena/Etinosa_portfolio/blob/main/Sheet%201%20(2).png)
 
 ---
 
@@ -95,7 +97,7 @@ While daily changes were predominantly small, returns occasionally ranged from -
 
 The histogram showed a mild leftward skew (skewness coefficient of approximately -0.25), implying that sharper negative returns were slightly more common and larger in magnitude than large positive ones. This characteristic is important for stress testing and portfolio simulations, suggesting that while daily returns are often stable, the risk of larger single-day losses is marginally higher than equivalent single-day gains.
 
-![Visualization specific to Category 2 – Daily Returns Distribution]
+![image alt](https://github.com/Etingena/Etinosa_portfolio/blob/main/Sheet%202.png0)
 
 ---
 
@@ -113,7 +115,7 @@ The highest volatility occurred around **September 1, 2024**, coinciding with th
 
 While the recovery brought significant gains, it also came with higher volatility. March 2025 saw volatility resurge past 0.025, reflecting increased trading activity and potentially a mix of profit-taking, new capital inflows, and shifting market expectations amid the bullish sentiment. This indicates that while the trend was upward, the path was not smooth, and market participants experienced notable price fluctuations.
 
-![Visualization specific to Category 3 – Rolling Volatility Chart]
+![image alt](https://github.com/Etingena/Etinosa_portfolio/blob/main/Sheet%203%20(1).png)
 
 ---
 
