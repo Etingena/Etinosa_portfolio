@@ -1,6 +1,7 @@
 # Nestlé (NSRGY) Stock Performance Analysis
 
 ## Table of Contents
+-[Tools Used](#tools-used)
 - [Project Background](#project-background)
 - [Data Structure & Initial Checks](#data-structure--initial-checks)
 - [Executive Summary](#executive-summary)
@@ -11,6 +12,14 @@
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
 
+## Tools Used
+-Python
+-Excel (for a clearer view of the dataset and minor edits)
+-Tableau
+
+For Python code used in cleaning and analyzing the data, [click here](https://Nestlestock.ipynb)
+
+To view the interactive Tableau dashboard for this analysis, [click here](https://public.tableau.com/views/Nestle_17486275953630/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Project Background
 Nestlé S.A. (Ticker: NSRGY) is a leading global food and beverage company with over 150 years in operation. Headquartered in Switzerland, the company operates in more than 180 countries and offers a diverse product portfolio, including dairy, beverages, pet care, and health science solutions. The business model is centered around strong brand equity, global distribution, and sustainable innovation. Key financial metrics of interest include share price performance, daily return behavior, and volatility—important to both internal finance teams and external investors.
