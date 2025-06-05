@@ -56,8 +56,7 @@ NSRGY’s stock experienced a prolonged decline throughout most of 2024, seeing 
 
 These insights provide clarity for investment strategy, particularly for teams involved in technical trading, portfolio risk management, and capital planning. While this analysis focuses on technical signals, it is meant to supplement, not replace, a comprehensive investment approach.
 
-![Dashboard](https://raw.githubusercontent.com/Etingena/Etinosa_portfolio/main/Dashboard%201%20(5).png)
-
+![Image](https://github.com/user-attachments/assets/f1834076-f028-4d92-acef-2bd7ec6e82bf)
 ---
 
 ## Insights Deep Dive  
