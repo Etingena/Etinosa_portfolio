@@ -75,8 +75,7 @@ In **January 16, 2025**, a "golden cross" occurred as the 7-day SMA moved above 
 
 During the downtrend, the SMAs consistently capped price rebounds, acting as resistance levels. In contrast, during the rally, they served as dynamic support zones, with prices often bouncing off these averages.
 
-![Sheet 1](https://raw.githubusercontent.com/Etingena/Etinosa_portfolio/main/Sheet%201%20(2).png)
-
+![image](https://github.com/user-attachments/assets/5563db37-44f1-44b3-b745-782bb8a655e0)
 ---
 
 ### Category 2: Daily Return Behavior and Risk Profile  
@@ -93,7 +92,7 @@ While daily changes were predominantly small, returns occasionally ranged from -
 
 The histogram showed a mild leftward skew (skewness coefficient of approximately -0.25), implying that sharper negative returns were slightly more common and larger in magnitude than large positive ones.
 
-![Sheet 2](https://raw.githubusercontent.com/Etingena/Etinosa_portfolio/main/Sheet%202.png)
+![image](https://github.com/user-attachments/assets/24104ca4-4156-4e09-b31d-11303f6fbdf3)
 
 ---
 
@@ -111,7 +110,7 @@ The highest volatility occurred around **September 1, 2024**, coinciding with th
 
 While the recovery brought significant gains, it also came with higher volatility. March 2025 saw volatility resurge past 0.025, reflecting increased trading activity and potentially a mix of profit-taking and renewed optimism.
 
-![Sheet 3](https://raw.githubusercontent.com/Etingena/Etinosa_portfolio/main/Sheet%203%20(1).png)
+![image](https://github.com/user-attachments/assets/be1a3476-c770-4c6a-b3de-d1f98c2eab5d)
 
 ---
 
