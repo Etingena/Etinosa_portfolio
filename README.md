@@ -26,7 +26,7 @@ To view the interactive Tableau dashboard for this analysis, [click here](https:
 ## Project Background
 Nestlé S.A. (Ticker: NSRGY) is a leading global food and beverage company with over 150 years in operation. Headquartered in Switzerland, the company operates in more than 180 countries and offers a broad portfolio of products...
 
-As a data analyst on the finance strategy team, I was tasked with evaluating short-term trading signals, return behaviors, and risk trends using NSRGY’s stock performance data between January 2024 and April 2025.
+This project involves the evaluation of short-term trading signals, return behaviors, and risk trends using NSRGY’s stock performance data between January 2024 and April 2025.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -128,7 +128,7 @@ Based on the findings above, the following actions are recommended:
 ## Assumptions and Caveats
 
 - Missing SMA values for the first 13 days, and missing 7-day rolling volatility for the first 6 days of the dataset, were excluded due to insufficient data points for accurate computation. This did not materially affect the overall analysis.
-- Data for January 1 and public holidays were naturally absent, as trading did not occur. These were not imputed.
+- Data for January 1 and public holidays were naturally absent, as trading did not occur. These were not added.
 - Volatility was calculated using a rolling window of **7 days**. Different window sizes (e.g., 14-day, 21-day) may yield different short-term sensitivity and highlight different aspects of volatility.
 - Interpretations of moving averages and volatility assume a technical analysis perspective and may not fully reflect fundamental shifts. A comprehensive investment strategy should integrate both technical and fundamental approaches.
 
