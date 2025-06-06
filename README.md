@@ -75,7 +75,7 @@ In **January 16, 2025**, a "golden cross" occurred as the 7-day SMA moved above 
 
 During the downtrend, the SMAs consistently capped price rebounds, acting as resistance levels. In contrast, during the rally, they served as dynamic support zones, with prices often bouncing off these averages.
 
-![image](https://github.com/user-attachments/assets/5563db37-44f1-44b3-b745-782bb8a655e0)
+![Image](https://github.com/user-attachments/assets/5563db37-44f1-44b3-b745-782bb8a655e0)
 ---
 
 ### Category 2: Daily Return Behavior and Risk Profile  
@@ -93,7 +93,6 @@ While daily changes were predominantly small, returns occasionally ranged from -
 The histogram showed a mild leftward skew (skewness coefficient of approximately -0.25), implying that sharper negative returns were slightly more common and larger in magnitude than large positive ones.
 
 ![image](https://github.com/user-attachments/assets/24104ca4-4156-4e09-b31d-11303f6fbdf3)
-
 ---
 
 ### Category 3: Volatility Dynamics and Risk Management  
@@ -111,7 +110,6 @@ The highest volatility occurred around **September 1, 2024**, coinciding with th
 While the recovery brought significant gains, it also came with higher volatility. March 2025 saw volatility resurge past 0.025, reflecting increased trading activity and potentially a mix of profit-taking and renewed optimism.
 
 ![image](https://github.com/user-attachments/assets/be1a3476-c770-4c6a-b3de-d1f98c2eab5d)
-
 ---
 
 ## Recommendations
